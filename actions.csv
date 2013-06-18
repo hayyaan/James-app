@@ -1,0 +1,12 @@
+app,firefox,C:\\\Program Files (x86)\\\Mozilla Firefox\\\firefox.exe
+site,fb,http://facebook.com
+search,wiki,http://www.wikipedia.org/search-redirect.php?search=[term]&language=en&go=Go
+search,yt,http://www.youtube.com/results?search_query=[term]&aq=f&oq=
+site,gm,http://gmail.com
+search,g,http://google.com/#q=[term]
+app,chrome,C:\\\Program Files (x86)\\\Google\\\Chrome\\\Application\\\chrome.exe
+site,re,http://reddit.com
+site,docs,http://docs.google.com
+search,bing,http://www.bing.com/search?q=[term]
+app,st,C:\\\\Program Files\\\\Sublime Text 2\\\sublime_text.exe
+app,ut,C:\\\Users\\\Hayyaan\\\AppData\\\Roaming\\\uTorrent\\\uTorrent.exe
